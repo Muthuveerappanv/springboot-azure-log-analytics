@@ -5,5 +5,5 @@ spring:
 azure:
   log:
     store:
-      azure-shared-key: D9dO7eCk6mcaoLzUGNLW0/8ywyGiZr+LzhRI/t57OBmK1WP6dgQ03J2EsPrtfAsk2STYun70feEKFKdK+cTpoA==
-      azure-wid: 79f11d07-700d-4bb0-b741-462264082b57
+      azure-shared-key: xxxx
+      azure-wid: xxxx
